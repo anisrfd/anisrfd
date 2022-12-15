@@ -29,8 +29,6 @@ My recent research topics are "Driver face and drowsiness detection in real-time
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anisrfd&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anisrfd)  
-
 ![GitHub metrics](https://metrics.lecoq.io/anisrfd)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=anisrfd) 
