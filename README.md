@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Software Engineer and AI Researcher](https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/49151450_1490819037688049_8822019313117429760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=PB7-uk-25TcAX_QsPL1&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBOjKr9e3uyDwZ-Xis87T0rp7IY5OyBhFrw72Kx_6Njow&oe=63C32069)
+(https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/49151450_1490819037688049_8822019313117429760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=PB7-uk-25TcAX_QsPL1&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBOjKr9e3uyDwZ-Xis87T0rp7IY5OyBhFrw72Kx_6Njow&oe=63C32069)
 
 ### Hi there 👋, I'm Anis-Ul-Islam Rafid
 #### Software Engineer and AI Researcher
